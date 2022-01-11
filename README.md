@@ -8,4 +8,3 @@ My Github is pretty *bare* for now, but *bear* with me as I continue to learn ne
 I always love meeting new people! If you'd like to reach out, here are my contacts:  
 Email:    **ymaung@uci.edu**  
 LinkedIn: **www.linkedin.com/in/ye-aung-8699b51ba**  
-Discord:  **Yura#3527**
