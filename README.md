@@ -1,4 +1,4 @@
-# Hello! My name is Ye, a recent CS graduate from UC Irvine.
+# Hello! My name is Ye, a CS graduate from UC Irvine.
 
 Currently looking for an entry-level position in Software Development, where I can apply my technical knowledge, problem-solving, and communication skills to engage in meaningful work. I love learning new skills and improving myself.
 
